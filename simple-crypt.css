@@ -1,0 +1,37 @@
+/*
+code.css -- define the graphic characteristics of the HTML elements.
+
+*/
+
+div {
+  align: center;
+  width: 98%;
+  display: block;
+  //border: solid 2pt red;
+}
+
+.buttonHolder {
+  text-align: center;
+  padding: 10px;
+}
+
+textarea {
+  border: solid 2pt black;
+  width: 80%;
+  height: 60px;
+  padding: 6px;
+  align: center;
+}
+
+select {
+  padding:5px;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+  border: solid 2pt black;
+  border-radius: 8px; 
+  font-weight: bold;
+  font-size: 80%;
+}
